@@ -2,14 +2,14 @@
 
 `You can find the latest weather condition of any city in the world or your current location's weather condition.`
 
-## **Live Link** - [Click Here.](https://entertainment-blue.vercel.app/)
+## **Live Link** - [Click Here.](https://weather-app-jss.netlify.app/)
 
 ## **Screenshots**
 
 ### **Home Page**
 
-![Home](https://github.com/ihossen016/Entertainment/blob/main/public/screenshots/s1.png)
+![Home](https://github.com/ihossen016/Weather-App/blob/main/screenshots/s1.png)
 
-### **Modal**
+### **Search Result**
 
-![Modal](https://github.com/ihossen016/Entertainment/blob/main/public/screenshots/s2.png)
+![Modal](https://github.com/ihossen016/Weather-App/blob/main/screenshots/s2.png)
